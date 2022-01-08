@@ -6,7 +6,6 @@
 </div>
 
 ## 
-<div align=center>
 
 There are two files: **Bank.py** and **main.py**. **Bank.py** includes all the function implementation such as checkBalance, deposit, and withdraw. **Main.py** runs all the implemented function from **Bank.py**. \
 \
@@ -43,7 +42,5 @@ Use below command to run project (Please make sure you are in same directory)
 $ python3 main.py
 
 ```
-
-
 
 </div>
